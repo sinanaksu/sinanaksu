@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋
+
+#I am a passionate software developer. ⚡ I am happy to be a part of this profession. I want to devote time to open source development.
 
 <!--
 **sinanaksu/sinanaksu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
